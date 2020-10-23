@@ -1,7 +1,7 @@
 # House price problem
 
 ## Introduction 
-This project is my excersise to practice and improve skill after learning data visualization and linear regression. I try to apply some statistics, data visualization tools and also a simple linear model in python frameworks.
+This project is my excersise to practice and improve skill after learning data visualization and linear regression. I tried to apply some statistics, data visualization tools and also a simple linear model in python frameworks.
 
 
 
@@ -19,7 +19,7 @@ This project is my excersise to practice and improve skill after learning data v
 ### 1. One feature interpretion
 #### 1.1 Continous feature
 * Each feature is verified separately. 
-* Plotting features in box plot and distplot to determine the outliers and visualize the distribution. 
+* Plotting features in boxplot and distplot to determine outliers and visualize the distribution. 
 * Skewness and kurtois are also calculated.
 
 ![Image1](https://user-images.githubusercontent.com/63390676/96951679-34d90100-1517-11eb-92d8-9be7e48c39e5.png)
@@ -43,7 +43,7 @@ This project is my excersise to practice and improve skill after learning data v
 
 ![I4](https://user-images.githubusercontent.com/63390676/96953272-df9eee80-151a-11eb-9ae8-c69a8dd362db.png)
 
-* There are 2 hypotheses that : These features are independent and the variances are homogenous and the p-value is 0.05.
+* There are 2 hypotheses : These features are independent and the variances are homogenous and the p-value is 0.05.
 
 * Chi-squared and anova are used to determined the truth value of 2 hypotheses.
 
