@@ -1,4 +1,4 @@
-# House price problem
+# Houses prices problem
 
 ## Introduction 
 This project is my excersise to practice and improve skill after learning data visualization and linear regression. I tried to apply some statistics, data visualization tools and also a simple linear model in python frameworks.
