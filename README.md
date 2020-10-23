@@ -15,16 +15,20 @@ This project is my excersise to practice and improve skill after learning data v
 
 
 ## Data visualization
+* In this project, the houses prices predictions are based on seven features: LotArea, YearBuilt, 1stFlrSF, 2ndFlrSF, FullBath, BedroomAbvGr, TotRmsAbvGrd selected from the dataset.
+* There are 2 types of features in this list:
+    * Continous features: LotArea, 1stFlrSF, 2ndFlrSF, YearBuilt
+    * Categorical features: FullBath, BedroomAbvGr, TotRmAbvGrd
 
 ### 1. One feature interpretion
-#### 1.1 Continous feature
+#### 1.1 Continous features
 * Each feature is verified separately. 
 * Plotting features in boxplot and distplot to determine outliers and visualize the distribution. 
 * Skewness and kurtois are also calculated.
 
 ![Image1](https://user-images.githubusercontent.com/63390676/96951679-34d90100-1517-11eb-92d8-9be7e48c39e5.png)
 
-#### 1.2 Categorical feature
+#### 1.2 Categorical features
 * Barplot is used to visualize the distribution of each feature.
 
 ![I2](https://user-images.githubusercontent.com/63390676/96952439-107e2400-1519-11eb-850f-7e04994f8fbe.png)
